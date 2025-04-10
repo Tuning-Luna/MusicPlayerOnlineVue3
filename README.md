@@ -1,5 +1,7 @@
 # Music_Player
-基于Vue3 + TypeScript + Element Plus的简易版本地音乐播放器
+基于Vue3 + TypeScript + Element Plus的简易版本地音乐播放器。实现了基本的音乐播放器功能
+<img src="./src/assets/image.png">
+
 
 ## 克隆此仓库到本地
 ```bash
@@ -13,8 +15,8 @@ git clone https://github.com/Tuning-Luna/MusicPlayerOnlineVue3.git
 ```sh
 npm install
 ```
-### 编译
 
+### 编译
 ```sh
 npm run dev
 ```
