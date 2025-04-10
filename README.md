@@ -1,39 +1,27 @@
 # Music_Player
+基于Vue3 + TypeScript + Element Plus的简易版本地音乐播放器
 
-This template should help get you started developing with Vue 3 in Vite.
+## 克隆此仓库到本地
+```bash
+git clone https://github.com/Tuning-Luna/MusicPlayerOnlineVue3.git
+```
 
-## Recommended IDE Setup
+## 开始
+确保您的系统上有Nodejs环境（使用`node -v`查看）
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
+### 安装必要的包
 ```sh
 npm install
 ```
-
-### Compile and Hot-Reload for Development
+### 编译
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### 打包文件
 
 ```sh
 npm run build
 ```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+更多命令请看`package.json`文件
